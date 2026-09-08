@@ -9,6 +9,10 @@ import RiskDisclosure from './components/RiskDisclosure'
 import FAQ from './components/FAQ'
 import CTA from './components/CTA'
 import Footer from './components/Footer'
+import WhoGoldvestFor from './components/WhoGoldvestFor'
+import LeadCapture from './components/LeadCapture'
+import Contact from './components/Contact'
+import InvestorDocumentation from './components/InvestorDocumentation'
 
 export default function App() {
   return (
@@ -21,9 +25,13 @@ export default function App() {
         <Pricing />
         <Security />
         <Responsibilities />
+        <InvestorDocumentation/>
         <RiskDisclosure />
+        <WhoGoldvestFor/>
+        <LeadCapture/>
         <FAQ />
         <CTA />
+        <Contact/>
       </main>
       <Footer />
     </div>

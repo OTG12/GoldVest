@@ -71,94 +71,127 @@ export const pricing = [
   },
 ]
 
+
 export const security = [
   {
-    title: 'Independent vault partners',
-    body: '[Insert vault partner and audit information]',
+    title: 'Defined investment tenures',
+    body: 'Choose between 3, 6 and 12-month participation periods.',
   },
+
   {
-    title: 'Insurance coverage',
-    body: 'Stored bullion is insured for its full replacement value. [Insert insurer and policy information]',
+    title: 'Clear return structure',
+    body: 'Each Goldvest plan has a clearly stated applicable return.',
   },
+
   {
-    title: 'Individual allocation',
-    body: 'Bars are registered to you by serial number \u2014 never pooled with other clients\u2019 holdings or re-hypothecated.',
+    title: 'Gold-focused business',
+    body: 'Goldvest is connected to BLC’s gold trading and related commercial activities.',
   },
+
   {
-    title: 'Client reporting',
-    body: 'You receive a statement of holdings on a periodic basis, and can request an ad hoc statement at any time.',
+    title: 'Formal documentation',
+    body: 'Investment details are documented through the applicable BLC investment documentation.',
+  },
+
+  {
+    title: 'Compliance process',
+    body: 'Investors may be required to complete identity, KYC, AML and source-of-funds verification.',
+  },
+
+  {
+    title: 'Responsible risk management',
+    body: 'BLC applies commercial risk-management procedures while recognising that investment risk cannot be completely eliminated.',
   },
 ]
 
-export const responsibilities = [
-  'Provide accurate personal and account information.',
-  'Provide funds from lawful, verifiable sources.',
-  'Complete the identity and source-of-funds verification required of you.',
-  'Read the formal client agreement before instructing a purchase.',
-  'Understand that gold prices move in both directions.',
-  'Keep banking and beneficiary details current.',
-  'Ask questions before, not after, an instruction is placed.',
-  'Seek independent financial, legal or tax advice where appropriate.',
-]
 
-export const risks = [
-  {
-    title: 'Price risk',
-    body: 'Gold prices fluctuate and can fall as well as rise. Past pricing is not indicative of future pricing.',
-  },
-  {
-    title: 'Liquidity risk',
-    body: 'Sale proceeds depend on market conditions at the time of sale, which may differ from the time of purchase.',
-  },
-  {
-    title: 'Storage and counterparty risk',
-    body: 'Custody depends on third-party vault and insurance providers performing as agreed.',
-  },
-  {
-    title: 'Regulatory risk',
-    body: 'Requirements can change and may affect how holdings are administered or transferred.',
-  },
-]
+
+
+// export const responsibilities = [
+//   'Provide accurate personal and account information.',
+//   'Provide funds from lawful, verifiable sources.',
+//   'Complete the identity and source-of-funds verification required of you.',
+//   'Read the formal client agreement before instructing a purchase.',
+//   'Understand that gold prices move in both directions.',
+//   'Keep banking and beneficiary details current.',
+//   'Ask questions before, not after, an instruction is placed.',
+//   'Seek independent financial, legal or tax advice where appropriate.',
+// ]
+
+// export const risks = [
+//   {
+//     title: 'Price risk',
+//     body: 'Gold prices fluctuate and can fall as well as rise. Past pricing is not indicative of future pricing.',
+//   },
+//   {
+//     title: 'Liquidity risk',
+//     body: 'Sale proceeds depend on market conditions at the time of sale, which may differ from the time of purchase.',
+//   },
+//   {
+//     title: 'Storage and counterparty risk',
+//     body: 'Custody depends on third-party vault and insurance providers performing as agreed.',
+//   },
+//   {
+//     title: 'Regulatory risk',
+//     body: 'Requirements can change and may affect how holdings are administered or transferred.',
+//   },
+// ]
+
 
 export const faqs = [
   {
-    q: 'What is Aurelis?',
-    a: 'Aurelis arranges the acquisition, allocated storage and administration of physical gold on behalf of private clients and family offices. We are not a bank and do not accept deposits.',
+    q: 'What is Goldvest?',
+    a: 'Goldvest is a structured investment participation programme connected to BLC’s gold-focused commercial activities, including gold sourcing, buying, selling, brokerage and related activities.',
   },
+
   {
-    q: 'How is the price of my gold determined?',
-    a: 'Purchases and sales are priced against the live spot gold price at the time of the transaction, plus or minus a premium or spread that is disclosed to you in advance.',
+    q: 'Who can participate?',
+    a: 'Participation is subject to applicable eligibility, verification and compliance requirements. Investors may be required to complete identity, KYC/AML and source-of-funds checks.',
   },
+
   {
-    q: 'Where is my gold stored?',
-    a: 'Bullion is held in independent, audited vaults under individual allocation. [Insert vault location and partner information]',
+    q: 'What is the minimum investment?',
+    a: '[Insert currently approved BLC minimum investment figure.]',
   },
+
   {
-    q: 'Is my gold insured?',
-    a: 'Stored bullion is insured for its full replacement value while in vault custody. [Insert insurer and policy information]',
+    q: 'What investment plans are available?',
+    a: 'Goldvest currently provides 3-month, 6-month and 12-month participation tenures.',
   },
+
   {
-    q: 'Can I take physical delivery?',
-    a: 'Delivery arrangements can be requested and are subject to the terms of your client agreement, applicable law and logistical constraints.',
+    q: 'What are the applicable returns?',
+    a: 'The applicable stated returns are 15% for 3 months, 35% for 6 months and 75% for 12 months, subject to the executed investment documentation and applicable terms.',
   },
+
   {
-    q: 'What verification is required to open an account?',
-    a: 'We are required to complete identity verification and source-of-funds checks in line with applicable anti-money-laundering regulation before any purchase is executed.',
+    q: 'Are these monthly returns?',
+    a: 'No. The stated returns are applicable to the selected investment tenure and are not monthly returns.',
   },
+
   {
-    q: 'How do I sell my holdings?',
-    a: 'You instruct a sale through your account. It is executed at the prevailing spot price less a disclosed spread, and proceeds are settled within the timeframe stated in your client agreement.',
+    q: 'How do I start?',
+    a: 'Complete the application and verification process, then review the applicable investment documentation before proceeding.',
   },
+
   {
-    q: 'Are there minimum allocation amounts?',
-    a: 'Minimums vary by product and are confirmed during your consultation. [Insert current minimum allocation information]',
+    q: 'What documents are required?',
+    a: 'Identification, application information and any KYC, AML or source-of-funds documentation requested by BLC may be required.',
   },
+
   {
-    q: 'Does Aurelis provide investment advice?',
-    a: 'We provide guidance on how physical gold may fit within a broader portfolio. We do not provide regulated investment, legal or tax advice, and recommend clients consult independent professionals for that.',
+    q: 'Can I withdraw before maturity?',
+    a: 'Early withdrawal is not automatic and is subject to the applicable terms of the executed investment documentation and any required approval.',
   },
+
   {
-    q: 'How do I get the formal client documentation?',
-    a: 'Full client agreements, fee schedules and risk disclosures are provided before any instruction is placed, and are available on request at any time afterward.',
+    q: 'How do I receive my maturity payment?',
+    a: 'Maturity payments are processed according to the payment details and terms contained in the executed investment documentation.',
+  },
+
+  {
+    q: 'Does Goldvest guarantee returns?',
+    a: 'Goldvest should not be described as risk-free or as providing unsupported guarantees. Applicable returns are subject to the executed investment documentation and its applicable terms.',
   },
 ]
+

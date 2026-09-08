@@ -55,7 +55,7 @@ return (
         <div className="flex items-center gap-3 mb-6">
           <span className="h-px w-10 bg-gold" />
           <span className="text-xs tracking-[0.3em] uppercase text-gold">
-            Billionaire Luxury Co.
+            Le Élite
           </span>
         </div>
 
