@@ -8,50 +8,53 @@ export const nav = [
 
 export const services = [
   {
-    title: 'Bullion acquisition',
-    body: 'We source LBMA-associated bars and recognised coins through vetted counterparties, executed at spot-plus-premium pricing that is disclosed before you commit.',
-  },
-  {
-    title: 'Allocated storage',
-    body: 'Your bars are held individually, insured and identifiable by serial number in independent vaults. Nothing is commingled, pooled or lent.',
-  },
-  {
-    title: 'Portfolio advisory',
-    body: 'Guidance on how physical gold fits alongside a client\u2019s broader holdings \u2014 position sizing, rebalancing and liquidity planning.',
-  },
-  {
-    title: 'Succession and transfer',
-    body: 'We help structure how holdings pass to heirs or trusts, including documentation, vault-transfer logistics and beneficiary records.',
-  },
-]
-
-export const process = [
-  {
     number: '01',
-    title: 'Consultation',
-    body: 'We discuss your objectives, time horizon and how physical gold fits your broader holdings.',
+    title: 'Choose your plan',
+    body: 'Select the GoldVest investment tenure that aligns with your preferred investment horizon: 3, 6, or 12 months.',
   },
   {
     number: '02',
-    title: 'Verification',
-    body: 'You complete identity and source-of-funds checks required under applicable regulation.',
+    title: 'Complete verification',
+    body: 'Complete the required verification process and provide the information and documentation necessary to participate.',
   },
   {
     number: '03',
-    title: 'Acquisition',
-    body: 'Funds settle and bullion is purchased at the price agreed at the time \u2014 spot plus a disclosed premium.',
+    title: 'Review & participate',
+    body: 'Review the applicable investment documentation, terms and conditions before proceeding with your selected GoldVest plan.',
   },
   {
     number: '04',
-    title: 'Custody',
-    body: 'Bars are registered to you individually and insured in independent, audited vault storage.',
-  },
-  {
-    number: '05',
-    title: 'Ongoing review',
-    body: 'You receive periodic statements. Storage, transfer or sale can be arranged whenever you need them.',
+    title: 'Maturity & processing',
+    body: 'At maturity, the principal and applicable return are processed according to the executed investment documentation.',
   },
 ]
+// export const process = [
+//   {
+//     number: '01',
+//     title: 'Consultation',
+//     body: 'We discuss your objectives, time horizon and how physical gold fits your broader holdings.',
+//   },
+//   {
+//     number: '02',
+//     title: 'Verification',
+//     body: 'You complete identity and source-of-funds checks required under applicable regulation.',
+//   },
+//   {
+//     number: '03',
+//     title: 'Acquisition',
+//     body: 'Funds settle and bullion is purchased at the price agreed at the time \u2014 spot plus a disclosed premium.',
+//   },
+//   {
+//     number: '04',
+//     title: 'Custody',
+//     body: 'Bars are registered to you individually and insured in independent, audited vault storage.',
+//   },
+//   {
+//     number: '05',
+//     title: 'Ongoing review',
+//     body: 'You receive periodic statements. Storage, transfer or sale can be arranged whenever you need them.',
+//   },
+// ]
 
 export const pricing = [
   {

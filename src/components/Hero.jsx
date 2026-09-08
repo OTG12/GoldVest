@@ -89,7 +89,7 @@ return (
               15%
             </p>
             <p className="text-xs text-parchment/50 mt-1">
-              Stated Return
+              Applicable Return
             </p>
           </div>
 
@@ -101,7 +101,7 @@ return (
               35%
             </p>
             <p className="text-xs text-parchment/50 mt-1">
-              Stated Return
+              Applicable Return
             </p>
           </div>
 
@@ -113,7 +113,7 @@ return (
               50%
             </p>
             <p className="text-xs text-parchment/50 mt-1">
-              Stated Return
+              Applicable Return
             </p>
           </div>
         </div>
@@ -136,13 +136,9 @@ return (
         </div>
 
         {/* Disclaimer */}
-        {/* <p className="mt-8 text-xs text-muted max-w-xl leading-relaxed">
-          GOLDVEST is subject to applicable terms, eligibility requirements,
-          verification procedures and executed investment documentation.
-          Applicable returns are stated returns under the relevant programme
-          terms. This website does not constitute investment, legal or tax
-          advice.
-        </p> */}
+        <p className="mt-8 text-xs text-muted max-w-xl leading-relaxed">
+         Goldvest by BLC gives investors access to defined investment plans connected to Le Élite’s Gold trading and related commercial and Foreign exchange activities, with structured tenures and clearly stated returns.
+        </p>
       </motion.div>
 
       {/* RIGHT VISUAL */}
